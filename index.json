@@ -24,6 +24,18 @@
   "updated": "2026-11-11"
  },
  {
+  "id": "lesson06",
+  "no": "第6讲",
+  "course": "26-7A+ 秋季班",
+  "subject": null,
+  "subjectLabel": null,
+  "title": "压轴题：定义新运算与数阵图",
+  "tagline": "符号再怪也别慌：先读懂规则再动手；格子题靠累加法和比较法",
+  "date": "2026-10-13",
+  "pages": 42,
+  "updated": "2026-11-11"
+ },
+ {
   "id": "lesson08",
   "no": "第8讲",
   "course": "26-7A+ 秋季班",
